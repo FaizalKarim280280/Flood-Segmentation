@@ -3,7 +3,7 @@ Flood segmentation is a deep learning model that segments flooded area from aeri
 ![Model Output](https://github.com/FaizalKarim280280/Flood-Segmentation/blob/main/plots/pred.jpg)
 # Description
 Semantic segmentation is the process of classifying each pixel of an image into distinct classes using deep learning. This aids in identifying regions in an image where certain objects reside.<br/><br/>
-The aim of this project is to build a web application which will identify and segment flooded areas in aerial images. Flood segmentation in aerial images is a crucial process in the workflow of target based aerial image analysis. In the last decade, a lot of research has happened related to information extraction from aerial imagery. Still it remains a challenging task due to noise, complex image background and occlusions.
+The aim of this project is to build a deep learning model which will identify and segment flooded areas in aerial images. Flood segmentation in aerial images is a crucial process in the workflow of target based aerial image analysis. In the last decade, a lot of research has happened related to information extraction from aerial imagery. Still it remains a challenging task due to noise, complex image background and occlusions.
 # Contents 
 1. Dataset<br/>
 2. Tools and libraries<br/>
