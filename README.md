@@ -39,4 +39,4 @@ For this project, we have built our own custom dataset from Google Images. This 
 - [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) - Olaf Ronneberger, Philipp Fischer, Thomas Brox (2015)
 - [Tensorflow](https://www.tensorflow.org/)
 - [Albumentation](https://albumentations.ai/docs/)
-- [Segmentation Models](https://github.com/qubvel/segmentation_models)
+
